@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Mediotype_FreeShippingPromo>
+            <active>true</active>
+            <codePool>community</codePool>
+        </Mediotype_FreeShippingPromo>
+    </modules>
+</config>
